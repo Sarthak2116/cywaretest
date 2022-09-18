@@ -23,3 +23,5 @@ For running the scripts Q2_i.py and Q2_ii.py use command: python3 Q2_i.py and py
 ## Question 2
 
 - Both the questions completed and tested with the sample csv file provided.
+
+Note: Please keep the csv file in the same folder as the solution scripts.
